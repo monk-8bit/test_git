@@ -1,9 +1,3 @@
-Hmmm
-
-This is a test for Git. 
-
-Then GitHub.
-
-Then back to VS Code.
-
-Then Django.
+Todo:
+	Login funciton in Users/View.py
+	Login template in Users
