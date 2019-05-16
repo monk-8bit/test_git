@@ -1,0 +1,7 @@
+This is a test for Git. 
+
+Then GitHub.
+
+Then back to VS Code.
+
+Then Django.
