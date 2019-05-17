@@ -1,3 +1,5 @@
 Todo:
+	Lear Effn Git
 	Login funciton in Users/View.py
 	Login template in Users
+	
